@@ -59,6 +59,7 @@ typedef multiset<i32> MSETI;
 #define BTW(A, B, C) assert( B <= A && A <= C)
 #define MP make_pair
 #define PB push_back
+#define PF push_front
 #define INF (int)1e9
 #define EPS 1e-9
 #define PI 3.1415926535897932384626433832795
